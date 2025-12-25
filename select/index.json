@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Doughnut",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-25T00:56:20.405245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doughnut Hole",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Doughnut_Hole_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doughnut Song",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/02_Doughnut_Song_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Doughnut Song (remixed version)",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/03_Doughnut_Song_(remixed_version)_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doughnut Song (Remastered)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/04_Doughnut_Song_(Remastered)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doughnut Song",
+      "artist": "Amos, Tori",
+      "has_synced": false,
+      "path": "select/05_Doughnut_Song_Amos,_Tori.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doughnut",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_Doughnut_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Doughnut Song (Remix)",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/07_Doughnut_Song_(Remix)_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Doughnut for a Snowman",
+      "artist": "Guided By Voices",
+      "has_synced": true,
+      "path": "select/08_Doughnut_for_a_Snowman_Guided_By_Voices.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Doughnut (Instrumental)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/09_Doughnut_(Instrumental)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doughnut Song (remixed version)",
+      "artist": "Amos, Tori",
+      "has_synced": false,
+      "path": "select/10_Doughnut_Song_(remixed_version)_Amos,_Tori.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Doughnut Song - 2016 Remaster",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/11_Doughnut_Song_-_2016_Remaster_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Doughnut Song [Remixed Version]",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/12_Doughnut_Song_[Remixed_Version]_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Doughnut Song (Alternate Mix; 2006 Remaster)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/13_Doughnut_Song_(Alternate_Mix;_2006_Remaster)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Doughnut Song - Live \"Bootleg\" Version-Los Angeles",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/14_Doughnut_Song_-_Live__Bootleg__Version-Los_Angeles_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Doughnut Song (Live In San Diego 12/12/07)",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/15_Doughnut_Song_(Live_In_San_Diego_12_12_07)_Tori_Amos.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doughnut",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Doughnut_TWICE.txt"
+    }
+  ]
+}
